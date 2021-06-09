@@ -26,3 +26,7 @@ Vai trò trong dự án
 Công nghệ sử dụng
 - ReactJS 
 - NodeJS
+
+Link Git gốc: github.com/nguyenthanhlong9620/webweb
+
+Một số hình ảnh:
