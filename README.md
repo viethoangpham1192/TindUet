@@ -30,3 +30,4 @@ Công nghệ sử dụng
 Link Git gốc: github.com/nguyenthanhlong9620/webweb
 
 Một số hình ảnh:
+![alt text](http://url/to/img.png)
